@@ -35,7 +35,7 @@ Start prosody:
 Adduser:
 ```bash
    prosodyctl adduser user1@openwrt-id
-``
+```
 
 Jabber Client:
 - Android
