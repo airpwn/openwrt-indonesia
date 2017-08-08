@@ -7,6 +7,7 @@
 
 - [Bikin Firmware Sendiri Cara Mudah](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Bikin%20Firmware%20Sendiri%20Cara%20Mudah.md)
 - [Cek Eksistensi Modem](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Cek%20Eksistensi%20Modem.md)
+- [Chat Server Jabber](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Chat%20Server%20Jabber.md)
 - [Connect Modem Huawei E3372 Versi Non-Hilink](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Connect%20Modem%20Huawei%20E3372%20Versi%20Non-Hilink.md)
 - [Daftar Camera Yang Disupport OpenWrt](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Daftar%20Kamera%20Yang%20Disupport%20OpenWrt.md)
 - [Game Online Mode NAT](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Game%20Online%20Mode%20NAT.md)
