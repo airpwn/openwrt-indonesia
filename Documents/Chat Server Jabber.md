@@ -39,10 +39,12 @@ Adduser:
 
 Jabber Client:
 - Android
-	Jtalk
+		
+		Jtalk
 
 - Windows
-	Gajin
+
+		Gajin
 
 Kontribusi:
 - Terima Kasih kepada [Tisaros Obengkumana](https://www.facebook.com/tisaros.obengkumana)
