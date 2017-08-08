@@ -29,6 +29,7 @@
 - [Samba Server OpenWrt](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Samba%20Server%20OpenWrt.md)
 - [Solusi Gagal Setting Bukan Gagal Flash](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Solusi%20Gagal%20Setting%20Bukan%20Gagal%20Flash.md)
 - [Solusi Mengatasi Salah Setting TL-MR3020](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Solusi%20Mengatasi%20Salah%20Setting%20TL-MR3020.md)
+- [Tutorial Install COPS](https://github.com/ahmadrasyidsalim/openwrt-indonesia/blob/master/Documents/Tutorial%20Install%20COPS.md)
 
 
 Referensi:
