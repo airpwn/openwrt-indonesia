@@ -7,7 +7,7 @@ COPS itu apa ya ? Silahkan kunjungi http://blog.slucas.fr/en/oss/calibre-opds-ph
 ```
 
 ## Konfigurasi
-- Edit/uncomment php.ini di bagian:
+- Edit file **/etc/php.ini** di bagian:
 ```bash
    ; Dynamic Extensions
    extension=dom.so
@@ -37,18 +37,18 @@ COPS itu apa ya ? Silahkan kunjungi http://blog.slucas.fr/en/oss/calibre-opds-ph
 ```
 
 
-- Edit /www/cops/configlocal.php di bagian directorynya:
+- Edit **/www/cops/configlocal.php** di bagian directorynya:
 ```bash
    $config['calibre_directory'] = '/mnt/usb/books/';
 ```
 
-- Perbaiki symlink dari /www/cops/books dengan cara pakai putty edit link nya arahkan ke /mnt/usb/books
-- Copy - kan isi dari folder Calibre Library dari komputer ke folder/mnt/usb/books, pastikan metadata.db juga tercopy semuanya
-- Buka browser arahkan ke http://192.168.1.1/cops
+- Perbaiki *symlink* dari **/www/cops/books** dengan cara pakai PuTTY edit link nya arahkan ke **/mnt/usb/books**
+- Copy - kan isi dari folder Calibre Library dari komputer ke folder/mnt/usb/books, **pastikan metadata.db juga tercopy semuanya**
+- Buka browser arahkan ke **http://192.168.1.1/cops**
 
 - Selesai dan terimakasih kepada yang telah buat aplikasi ini
-- Supaya bisa terintegrasi dengan Aldiko dan semacamnya,tinggal edit catalog dan arahkan URL nya ke http://192.168.1.1/cops/feed.php
-- Alhasil buku-buku anda tersusun rapi dan bisa di search dengan aldiko.
+- Supaya bisa terintegrasi dengan Aldiko dan semacamnya, tinggal edit catalog dan arahkan URL nya ke **http://192.168.1.1/cops/feed.php**
+- Alhasil buku-buku anda tersusun rapi dan bisa di search dengan Aldiko.
 
 Kontribusi:
 - Terima Kasih kepada (Johan Rusli)[https://www.facebook.com/johan.rusli]
